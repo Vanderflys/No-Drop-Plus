@@ -1,0 +1,1 @@
+execute as @a at @s if score @s ItemsDropped matches 1.. unless predicate sneaking run function nodrop
